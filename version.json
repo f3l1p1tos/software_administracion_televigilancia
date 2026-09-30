@@ -1,5 +1,5 @@
 {
   "version": "1.0.2",
-  "mensaje": "Se agrega la función de **Aviso en caso de Errores** esto para que la persona que esté utilizando el software y encuentre alguna incongruencia, sugerencia o actualización pueda realizar el levantamiento de un ticket, y genere el informe correspondiente con la posibilidad de adjuntar tanto texto, asi como tambien archivos con multiples extensiones, pdf, jpg, png o el que estime conveniente.",
+  "mensaje": "Se introduce la nueva función de Reportar Error con la posibilidad de adjuntar archivos de imagen, hasta el momento no se pueden adjuntar otro tipos de archivos debido a que la plataforma que se utiliza para el almacenaje de los archivos solo permite este tipo de archivos.Ya se realizaron las pruebas de funcionamiento desde las pestañas **Principal** y dentro del esquema de **Tomé** no se considera en la ventana de **Herramientas** debido a que esta solo es una extensión del software original.",
   "link_descarga": "https://github.com/f3l1p1tos/software_administracion_televigilancia/releases/download/v1.0.2/Novacenter_Software_V1.0.2.exe"
 }
