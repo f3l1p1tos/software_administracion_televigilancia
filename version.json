@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "mensaje": "Se introduce la nueva función de Reportar Error con la posibilidad de adjuntar archivos de imagen, hasta el momento no se pueden adjuntar otro tipos de archivos debido a que la plataforma que se utiliza para el almacenaje de los archivos solo permite este tipo de archivos.Ya se realizaron las pruebas de funcionamiento desde las pestañas **Principal** y dentro del esquema de **Tomé** no se considera en la ventana de **Herramientas** debido a que esta solo es una extensión del software original.",
-  "link_descarga": "https://github.com/f3l1p1tos/software_administracion_televigilancia/releases/download/v1.0.2/Novacenter_Software_V1.0.2.exe"
+  "version": "1.0.3",
+  "mensaje": "Se arregla error en identificación de punto de televigilancia *Av. Cardenal Samoré Punta de Parra*. Se integra función previsualización para rutas de fibra óptica. Se integra función de actualización de software en segundo plano",
+  "link_descarga": "https://github.com/f3l1p1tos/software_administracion_televigilancia/releases/download/v1.0.3/Novacenter_Software_V1.0.3.exe"
 }
