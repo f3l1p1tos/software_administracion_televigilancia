@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "mensaje": "Nueva actualización de Versión Disponible - Ⅰ. Punto Av. Cardenal Samoré Corregido ✓ | Ⅱ. Visualización de Rutas de Fibra Óptica sin Tener que Descargas Ficha Técnica Disponible ✓ | Ⅲ. Busqueda de Puntos por Ubicación al Revés (Ej: Montt con Maipu / Maipu con Montt) Disponible ✓ Ⅳ. Búsqueda de Puntos Por Nombre Clave Según Operadores Disponible ✓",
-  "link_descarga": "https://github.com/f3l1p1tos/software_administracion_televigilancia/releases/download/V1.0.5/Novacenter_Software_V1.0.5.exe"
+  "version": "1.0.6",
+  "mensaje": "Nueva actualización de Versión Disponible - Ⅰ. Integración de opción adicional /nombre_central/ para indicar el nombre común por el cual los operadores de cámaras conocen el punto de televigilancia, al realizar la busqueda e ingresar a la información del punto este nombre no aparece, al igual que /nombre al reves/ el cual es el nombre de la calle pero escrito al reves, por si alguien realiza la busqueda de otra forma, Ej: Carrera con Pinto / Pinto con Carrera. ✓ | Ⅱ. Integración de 8 nuevos puntos de televigilancia, modificando los puntos a los que se conectan y añadiendo la información correspondiente de estos ✓ | Ⅲ. Arreglo de errores relacionado al direccionamiento en algunos puntos. ✓",
+  "link_descarga": "https://github.com/f3l1p1tos/software_administracion_televigilancia/releases/download/V1.0.6/Novacenter_Software_V1.0.6.exe"
 }
